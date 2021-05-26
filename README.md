@@ -2,13 +2,16 @@
 This folder contains the following files:
 
 
-NoiseRef1.wav       
+NoiseRef1.wav  
+
 	Audio from one of the interfering noise sources
 
-NoiseRef2.wav       
+NoiseRef2.wav     
+
 	Audio from the other interfering noise source
 
 NoisySignal.wav     
+
 	Audio of the speech signal in the presence of interfering noise sources subject to room reverberation and additive hum
 
 EnhancedSignal.wav
@@ -20,9 +23,11 @@ lsmatvec.m
 	Filtering algorithm
 
 Plot_Spectrogram.m  
+
 	MATLAB script to plot the spectrogram
 
 CleanSignal_Spectrogram.jpg    
+
 	The spectrogram of the speech signal without interference (using Plot_Spectrpgram.m)
 
 
