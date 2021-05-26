@@ -11,6 +11,11 @@ NoiseRef2.wav
 NoisySignal.wav     
 	Audio of the speech signal in the presence of interfering noise sources subject to room reverberation and additive hum
 
+EnhancedSignal.wav
+	Clean, output signal after filtering
+	
+lsmatvec.m
+
 
 Plot_Spectrogram.m  
 	MATLAB script to plot the spectrogram
