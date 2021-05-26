@@ -21,7 +21,7 @@ Plot_Spectrogram.m
 - MATLAB script to plot the spectrogram
 
 CleanSignal_Spectrogram.jpg    
-- The spectrogram of the speech signal without interference (using Plot_Spectrpgram.m)
+- The spectrogram of the speech signal without interference (using Plot_Spectrogram.m)
 
 
 
