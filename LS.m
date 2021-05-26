@@ -4,7 +4,7 @@ tic %start timer to measure performance speed;
 [x,fs] = audioread('NoisySignal.wav');
 [n,fs1] = audioread('NoiseRef1.wav');
 [v,fs2] = audioread('NoiseRef2.wav');
-% [xref,fsr] = audioread('spock.wav'); %%%%%PLEASE NOTE THIS SIGNAL IS USED ONLY IN CALCULATING FINAL ERROR, IT WAS FOUND ON INTERNET AFTER TEAM HAD THE IDEA OF THE DATA CONTENT AFTER FILTERING
+% [xref,fsr] = audioread('spock.wav');
 N = size(x,1); %get the number of samples
 
 figure(1);
