@@ -14,7 +14,7 @@ NoisySignal.wav
 EnhancedSignal.wav
 - Clean, output signal after filtering
 	
-lsmatvec.m
+LS.m
 - Filtering algorithm
 
 Plot_Spectrogram.m  
