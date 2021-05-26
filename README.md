@@ -15,7 +15,7 @@ EnhancedSignal.wav
 	Clean, output signal after filtering
 	
 lsmatvec.m
-
+	Filtering algorithm
 
 Plot_Spectrogram.m  
 	MATLAB script to plot the spectrogram
